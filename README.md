@@ -1,4 +1,4 @@
-**#Design and Analysis of Algorithms – Portfolio**
+**Design and Analysis of Algorithms – Portfolio**
 Welcome to my collection of algorithm implementations for Design and Analysis of Algorithms.
 This repository demonstrates my ability to design, implement, and analyze algorithms in Java across graph theory, dynamic programming, and combinatorial optimization.
 
@@ -47,12 +47,12 @@ Description: Counts the number of elements in a sorted array within range [x, y]
 Key Skills: Lower/upper bound binary search, range queries.
 
 
-Tech & Skills Demonstrated
+**Tech & Skills Demonstrated**
 Languages: Java
 Algorithms: Graph algorithms, shortest paths, MST, max-flow, reductions to SAT, dynamic programming, binary search.
 Concepts: NP-completeness, greedy algorithms, residual networks, optimization.
 
-Purpose
+**Purpose**
 This portfolio highlights my ability to:
 Translate theoretical algorithms into practical implementations.
 Apply algorithmic problem-solving to graph, flow, and optimization problems.
